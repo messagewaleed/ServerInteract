@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/thoughtListView"
-        android:dividerHeight="5.0sp"
+        android:dividerHeight="5.3sp"
         android:divider="#FF9843"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
